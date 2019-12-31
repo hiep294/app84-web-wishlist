@@ -1,0 +1,5 @@
+every details in state should device into smaller components, to avoid reloading whole components
+list view component should what only length of list
+also should device list and list-item, because list has been watching length of it's self, list-item has been watching it's details 
+
+to research more: Group.js > line 45

@@ -1,0 +1,94 @@
+{
+  "suggestions_f": [
+    {
+      "name": "(1) Beyond the Brain",
+      "price": 12,
+      "image": "https://archive.org/download/beyondbrainhowbo00barr/page/cover_w180_h360.jpg"
+    },
+    {
+      "name": "(2) Beyond the Brain 2",
+      "price": 22,
+      "image": "https://archive.org/download/beyondbrainhowbo00barr/page/cover_w180_h360.jpg"
+    }
+  ],
+  "suggestions_m": [
+    {
+      "name": "(3) Beyond the Brain 3",
+      "price": 32,
+      "image": "https://archive.org/download/beyondbrainhowbo00barr/page/cover_w180_h360.jpg"
+    },
+    {
+      "name": "(4) Beyond the Brain 4",
+      "price": 42,
+      "image": "https://archive.org/download/beyondbrainhowbo00barr/page/cover_w180_h360.jpg"
+    }
+  ],
+  "users": {
+    "a1": {
+      "id": "a1",
+      "name": "Homer",
+      "gender": "m",
+      "wishList": {
+        "items": [
+          {
+            "id": "3",
+            "name": "(3) Beyond the Brain 3",
+            "price": 32,
+            "image": "https://archive.org/download/beyondbrainhowbo00barr/page/cover_w180_h360.jpg"
+          },
+          {
+            "id": "4",
+            "name": "(4) Beyond the Brain 4",
+            "price": 42,
+            "image": "https://archive.org/download/beyondbrainhowbo00barr/page/cover_w180_h360.jpg"
+          }
+        ]
+      },
+      "recipient": "a3"
+    },
+    "a2": {
+      "id": "a2",
+      "name": "Marge",
+      "gender": "f",
+      "wishList": {
+        "items": [
+          {
+            "id": "1",
+            "name": "(1) Beyond the Brain",
+            "price": 12,
+            "image": "https://archive.org/download/beyondbrainhowbo00barr/page/cover_w180_h360.jpg"
+          },
+          {
+            "id": "2",
+            "name": "(2) Beyond the Brain 2",
+            "price": 22,
+            "image": "https://archive.org/download/beyondbrainhowbo00barr/page/cover_w180_h360.jpg"
+          }
+        ]
+      },
+      "recipient": "a1"
+    },
+    "a3": {
+      "id": "a3",
+      "name": "Maggie",
+      "gender": "m",
+      "wishList": {
+        "items": [
+          {
+            "id": "3",
+            "name": "(3) Beyond the Brain 3",
+            "price": 32,
+            "image": "https://archive.org/download/beyondbrainhowbo00barr/page/cover_w180_h360.jpg"
+          },
+          {
+            "id": "4",
+            "name": "(4) Beyond the Brain 4",
+            "price": 42,
+            "image": "https://archive.org/download/beyondbrainhowbo00barr/page/cover_w180_h360.jpg"
+          }
+        ]
+      },
+      "recipient": "a2"
+    }
+  }
+}
